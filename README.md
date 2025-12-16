@@ -72,12 +72,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit69&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="rujit69" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rujit69&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rujit69&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rujit69&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
