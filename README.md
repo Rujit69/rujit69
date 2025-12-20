@@ -8,7 +8,7 @@
   <a href="https://instagram.com/rujit_shrestha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/rujit69" target="_blank">
+  <a href="https://github.com/rujit33" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -69,10 +69,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit69&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="rujit69" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit69&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit33&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="rujit33" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit33&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rujit69&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rujit33&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
