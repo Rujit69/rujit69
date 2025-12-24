@@ -72,7 +72,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rujit33&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="rujit33" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rujit33&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=rujit33&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
